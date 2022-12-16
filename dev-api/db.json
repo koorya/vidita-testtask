@@ -1,0 +1,256 @@
+{
+  "documents1": [
+    {
+      "id": "0",
+      "status": "archive",
+      "sum": 22,
+      "qty": 7928,
+      "volume": 46,
+      "name": "Duis",
+      "delivery_date": "2022-08-28",
+      "currency": "Rub"
+    },
+    {
+      "id": "1",
+      "status": "active",
+      "sum": 706,
+      "qty": 3728,
+      "volume": 63,
+      "name": "nunc",
+      "delivery_date": "2022-10-21",
+      "currency": "Dol"
+    },
+    {
+      "id": "2",
+      "status": "active",
+      "sum": 679,
+      "qty": 823,
+      "volume": 46,
+      "name": "eros",
+      "delivery_date": "2022-12-16",
+      "currency": "Rub"
+    },
+    {
+      "id": "3",
+      "status": "archive",
+      "sum": 226,
+      "qty": 2728,
+      "volume": 52,
+      "name": "vitae",
+      "delivery_date": "2022-11-28",
+      "currency": "Dol"
+    },
+    {
+      "id": "4",
+      "status": "archive",
+      "sum": 332,
+      "qty": 4751,
+      "volume": 56,
+      "name": "feugiat",
+      "delivery_date": "2022-10-19",
+      "currency": "Rub"
+    },
+    {
+      "id": "5",
+      "status": "active",
+      "sum": 157,
+      "qty": 1912,
+      "volume": 89,
+      "name": "vitae",
+      "delivery_date": "2022-10-27",
+      "currency": "Rub"
+    },
+    {
+      "id": "6",
+      "status": "archive",
+      "sum": 55,
+      "qty": 1749,
+      "volume": 57,
+      "name": "tincidunt",
+      "delivery_date": "2022-09-10",
+      "currency": "Eur"
+    },
+    {
+      "id": "7",
+      "status": "active",
+      "sum": 521,
+      "qty": 2724,
+      "volume": 6,
+      "name": "ligula",
+      "delivery_date": "2022-09-22",
+      "currency": "Rub"
+    },
+    {
+      "id": "8",
+      "status": "active",
+      "sum": 628,
+      "qty": 4072,
+      "volume": 59,
+      "name": "Maecenas",
+      "delivery_date": "2022-11-13",
+      "currency": "Eur"
+    },
+    {
+      "id": "9",
+      "status": "archive",
+      "sum": 729,
+      "qty": 7725,
+      "volume": 80,
+      "name": "accumsan",
+      "delivery_date": "2022-10-08",
+      "currency": "Rub"
+    }
+  ],
+  "documents2": [
+    {
+      "id": "0",
+      "status": "active",
+      "sum": 974,
+      "qty": 3521,
+      "volume": 20,
+      "name": "commodo",
+      "delivery_date": "2022-08-25",
+      "currency": "Rub"
+    },
+    {
+      "id": "1",
+      "status": "active",
+      "sum": 950,
+      "qty": 5720,
+      "volume": 19,
+      "name": "eget",
+      "delivery_date": "2022-11-08",
+      "currency": "Rub"
+    },
+    {
+      "id": "2",
+      "status": "active",
+      "sum": 269,
+      "qty": 5352,
+      "volume": 99,
+      "name": "lectus",
+      "delivery_date": "2022-08-23",
+      "currency": "Rub"
+    },
+    {
+      "id": "3",
+      "status": "active",
+      "sum": 115,
+      "qty": 4225,
+      "volume": 8,
+      "name": "consectetur",
+      "delivery_date": "2022-12-12",
+      "currency": "Rub"
+    },
+    {
+      "id": "4",
+      "status": "active",
+      "sum": 442,
+      "qty": 4698,
+      "volume": 12,
+      "name": "eros",
+      "delivery_date": "2022-09-04",
+      "currency": "Eur"
+    },
+    {
+      "id": "5",
+      "status": "archive",
+      "sum": 41,
+      "qty": 2813,
+      "volume": 76,
+      "name": "risus",
+      "delivery_date": "2022-12-14",
+      "currency": "Rub"
+    },
+    {
+      "id": "6",
+      "status": "archive",
+      "sum": 410,
+      "qty": 1690,
+      "volume": 71,
+      "name": "risus",
+      "delivery_date": "2022-12-01",
+      "currency": "Rub"
+    },
+    {
+      "id": "7",
+      "status": "active",
+      "sum": 263,
+      "qty": 3207,
+      "volume": 78,
+      "name": "semper",
+      "delivery_date": "2022-09-21",
+      "currency": "Rub"
+    },
+    {
+      "id": "8",
+      "status": "active",
+      "sum": 98,
+      "qty": 7408,
+      "volume": 67,
+      "name": "tempor",
+      "delivery_date": "2022-10-06",
+      "currency": "Eur"
+    },
+    {
+      "id": "9",
+      "status": "active",
+      "sum": 813,
+      "qty": 2751,
+      "volume": 87,
+      "name": "Curabitur",
+      "delivery_date": "2022-10-30",
+      "currency": "Dol"
+    },
+    {
+      "id": "10",
+      "status": "active",
+      "sum": 895,
+      "qty": 4472,
+      "volume": 24,
+      "name": "ipsum",
+      "delivery_date": "2022-11-16",
+      "currency": "Dol"
+    },
+    {
+      "id": "11",
+      "status": "archive",
+      "sum": 30,
+      "qty": 2290,
+      "volume": 8,
+      "name": "velit",
+      "delivery_date": "2022-12-10",
+      "currency": "Rub"
+    },
+    {
+      "id": "12",
+      "status": "active",
+      "sum": 940,
+      "qty": 9358,
+      "volume": 11,
+      "name": "nisl",
+      "delivery_date": "2022-10-18",
+      "currency": "Rub"
+    },
+    {
+      "id": "13",
+      "status": "active",
+      "sum": 757,
+      "qty": 1389,
+      "volume": 46,
+      "name": "placerat",
+      "delivery_date": "2022-11-15",
+      "currency": "Eur"
+    },
+    {
+      "id": "14",
+      "status": "active",
+      "sum": 977,
+      "qty": 3347,
+      "volume": 37,
+      "name": "quis",
+      "delivery_date": "2022-09-06",
+      "currency": "Eur"
+    }
+  ]
+}

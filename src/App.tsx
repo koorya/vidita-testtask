@@ -1,26 +1,26 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { useState } from "react";
+import { AlertDialog } from "./AlertDialog/AlertDialog";
 
-function App() {
+import { Table } from "./table/Table";
+import { MessageType } from "./types";
+
+export const App = () => {
+  const [messages, setMessages] = useState<MessageType[]>([]);
+
+  const addMessage = (message: MessageType) => {
+    setMessages([...messages, message]);
+  };
+  const removeMessage = (message: MessageType) => {
+    setMessages([...messages.filter((m) => m != message)]);
+  };
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <Table addMessage={addMessage} />
+      <AlertDialog
+        message={messages[messages.length - 1]}
+        removeMessage={removeMessage}
+      />
+    </>
   );
-}
-
-export default App;
+};
