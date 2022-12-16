@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { DataGrid, GridColDef, GridSelectionModel } from "@mui/x-data-grid";
-import { Box, Button, Paper, Stack } from "@mui/material";
+import { Button, Stack } from "@mui/material";
 import { MessageType } from "../types";
 
 type DocumentType = {
